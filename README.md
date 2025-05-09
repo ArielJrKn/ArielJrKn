@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, moi c'est Ariel alias ArielJrKn</h1>
 
 <p align="center">
-  👨‍💻 Dev Web junior & Mobile Junior | Laravel & Flutter, HTML, CSS, JS|👑  
+  👨‍💻 Dev Web junior & Mobile Junior | Laravel & Flutter, HTML, CSS, JS 👑  
 </p>
 
 ---
@@ -16,9 +16,9 @@
 ## 🛠️ Compétences
 
 - 🔹 **Back-end :** PHP, Laravel, MySQL  
-- 🔹 **Front-end :** HTML, CSS, JS  - React.js en cours de téléchargement (Coming soon)
+- 🔹 **Front-end :** HTML, CSS, JS *(React.js en téléchargement... patience 😎)*
 - 🔹 **Mobile :** Flutter, Dart  
-- 🔹 **Outils :** Git, GitHub, VS Code, Laragon, Sublim Text, Xampp 
+- 🔹 **Outils :** Git, GitHub, VS Code, Laragon, Sublime Text, Xampp 
 - 🔹 **Soft skills :** Déter 💥, Curieux 🤓, Autonome 🚀  
 
 ---
@@ -26,8 +26,8 @@
 ## 📈 Statut actuel
 
 - ✍️ Bosse à fond sur laravel, flutter.
-- 📣 Fais un (php artisan migrate:refresh de JS) avant de se lancer dans React.js 
-- 🔍 Se perfectionne aussi en PHP, MySql, HTML et CSS  
+- ⚙️ Préparation de la zone pour React.js (version JS stable à venir 😅) 
+- 📚 Se renforce aussi sur PHP, MySQL, HTML et CSS  
 - 💼 Ouvert aux stages, collabs ou freelances si le projet est chaud 🔥
 
 ---
